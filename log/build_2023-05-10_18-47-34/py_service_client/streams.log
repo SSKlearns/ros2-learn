@@ -1,0 +1,43 @@
+[0.596s] Invoking command in '/ros2-learn/src/py_service_client': PYTHONPATH=/ros2-learn/build/py_service_client/prefix_override:/ros2-learn/install/py_service_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_service_client build --build-base /ros2-learn/build/py_service_client/build install --record /ros2-learn/build/py_service_client/install.log --single-version-externally-managed
+[0.716s] running egg_info
+[0.717s] creating ../../build/py_service_client/py_service_client.egg-info
+[0.717s] writing ../../build/py_service_client/py_service_client.egg-info/PKG-INFO
+[0.718s] writing dependency_links to ../../build/py_service_client/py_service_client.egg-info/dependency_links.txt
+[0.718s] writing entry points to ../../build/py_service_client/py_service_client.egg-info/entry_points.txt
+[0.718s] writing requirements to ../../build/py_service_client/py_service_client.egg-info/requires.txt
+[0.718s] writing top-level names to ../../build/py_service_client/py_service_client.egg-info/top_level.txt
+[0.718s] writing manifest file '../../build/py_service_client/py_service_client.egg-info/SOURCES.txt'
+[0.718s] reading manifest file '../../build/py_service_client/py_service_client.egg-info/SOURCES.txt'
+[0.719s] writing manifest file '../../build/py_service_client/py_service_client.egg-info/SOURCES.txt'
+[0.719s] running build
+[0.719s] running build_py
+[0.719s] creating /ros2-learn/build/py_service_client/build
+[0.719s] creating /ros2-learn/build/py_service_client/build/lib
+[0.719s] creating /ros2-learn/build/py_service_client/build/lib/py_service_client
+[0.719s] copying py_service_client/client_member_function.py -> /ros2-learn/build/py_service_client/build/lib/py_service_client
+[0.719s] copying py_service_client/service_member_function.py -> /ros2-learn/build/py_service_client/build/lib/py_service_client
+[0.719s] copying py_service_client/__init__.py -> /ros2-learn/build/py_service_client/build/lib/py_service_client
+[0.719s] running install
+[0.719s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.719s]   warnings.warn(
+[0.719s] running install_lib
+[0.720s] creating /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client
+[0.720s] copying /ros2-learn/build/py_service_client/build/lib/py_service_client/client_member_function.py -> /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client
+[0.720s] copying /ros2-learn/build/py_service_client/build/lib/py_service_client/service_member_function.py -> /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client
+[0.720s] copying /ros2-learn/build/py_service_client/build/lib/py_service_client/__init__.py -> /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client
+[0.720s] byte-compiling /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client/client_member_function.py to client_member_function.cpython-310.pyc
+[0.721s] byte-compiling /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client/service_member_function.py to service_member_function.cpython-310.pyc
+[0.721s] byte-compiling /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client/__init__.py to __init__.cpython-310.pyc
+[0.721s] running install_data
+[0.721s] creating /ros2-learn/install/py_service_client/share/ament_index
+[0.721s] creating /ros2-learn/install/py_service_client/share/ament_index/resource_index
+[0.721s] creating /ros2-learn/install/py_service_client/share/ament_index/resource_index/packages
+[0.721s] copying resource/py_service_client -> /ros2-learn/install/py_service_client/share/ament_index/resource_index/packages
+[0.721s] copying package.xml -> /ros2-learn/install/py_service_client/share/py_service_client
+[0.721s] running install_egg_info
+[0.722s] Copying ../../build/py_service_client/py_service_client.egg-info to /ros2-learn/install/py_service_client/lib/python3.10/site-packages/py_service_client-0.0.0-py3.10.egg-info
+[0.722s] running install_scripts
+[0.736s] Installing client script to /ros2-learn/install/py_service_client/lib/py_service_client
+[0.736s] Installing service script to /ros2-learn/install/py_service_client/lib/py_service_client
+[0.736s] writing list of installed files to '/ros2-learn/build/py_service_client/install.log'
+[0.762s] Invoked command in '/ros2-learn/src/py_service_client' returned '0': PYTHONPATH=/ros2-learn/build/py_service_client/prefix_override:/ros2-learn/install/py_service_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_service_client build --build-base /ros2-learn/build/py_service_client/build install --record /ros2-learn/build/py_service_client/install.log --single-version-externally-managed

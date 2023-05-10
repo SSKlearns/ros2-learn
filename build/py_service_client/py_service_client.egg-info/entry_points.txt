@@ -1,0 +1,4 @@
+[console_scripts]
+client = py_service_client.client_member_function:main
+service = py_service_client.service_member_function:main
+
