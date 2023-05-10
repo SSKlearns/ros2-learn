@@ -1,0 +1,23 @@
+[0.390s] Invoking command in '/ros2-learn/src/my_py_pkg': PYTHONPATH=/ros2-learn/build/my_py_pkg/prefix_override:/ros2-learn/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /ros2-learn/build/my_py_pkg/build install --record /ros2-learn/build/my_py_pkg/install.log --single-version-externally-managed
+[0.541s] running egg_info
+[0.542s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.542s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.542s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.542s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.542s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.543s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.544s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.544s] running build
+[0.544s] running build_py
+[0.545s] running install
+[0.545s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.545s]   warnings.warn(
+[0.545s] running install_lib
+[0.546s] running install_data
+[0.547s] running install_egg_info
+[0.548s] removing '/ros2-learn/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.548s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /ros2-learn/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.549s] running install_scripts
+[0.566s] Installing my_test_node script to /ros2-learn/install/my_py_pkg/lib/my_py_pkg
+[0.567s] writing list of installed files to '/ros2-learn/build/my_py_pkg/install.log'
+[0.589s] Invoked command in '/ros2-learn/src/my_py_pkg' returned '0': PYTHONPATH=/ros2-learn/build/my_py_pkg/prefix_override:/ros2-learn/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /ros2-learn/build/my_py_pkg/build install --record /ros2-learn/build/my_py_pkg/install.log --single-version-externally-managed
